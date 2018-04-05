@@ -1,0 +1,8 @@
+packages/
+OilPriceApi/bin/
+OilPriceApi/obj/
+.vs/
+OilPriceApi.Test/bin/
+OilPriceApi.Test/FakesAssemblies/
+OilPriceApi.Test/obj/
+*.user
